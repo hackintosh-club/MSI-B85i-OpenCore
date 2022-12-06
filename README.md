@@ -60,11 +60,11 @@
 
 - About This Mac
 
-![image](https://github.com/hackintosh-efi/MSI-B85i-OpenCore/tree/main/ScreenShot/关于本机.PNG)
+![image](https://github.com/hackintosh-efi/MSI-B85i-OpenCore/blob/main/ScreenShot/关于本机.PNG)
 
 - Geekbench5 Score E3-1231 V3
 
-![image](https://github.com/hackintosh-efi/MSI-B85i-OpenCore/tree/main/ScreenShot/geekbench.PNG)
+![image](https://github.com/hackintosh-efi/MSI-B85i-OpenCore/blob/main/ScreenShot/geekbench.PNG)
 
 - Cinebench R20
 
@@ -72,4 +72,4 @@
 
 - Intel Power Gadget
 
-![image](https://github.com/hackintosh-efi/MSI-B85i-OpenCore/tree/main/ScreenShot/IntelPowerGadget.PNG)
+![image](https://github.com/hackintosh-efi/MSI-B85i-OpenCore/blob/main/ScreenShot/IntelPowerGadget.PNG)
