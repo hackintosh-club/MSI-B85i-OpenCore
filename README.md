@@ -66,10 +66,6 @@
 
 ![image](https://github.com/hackintosh-efi/MSI-B85i-OpenCore/blob/main/ScreenShot/geekbench.PNG)
 
-- Cinebench R20
+- Intel Power Gadget and Cinebench R20
 
 ![image](https://github.com/hackintosh-efi/MSI-B85i-OpenCore/blob/main/ScreenShot/CINEBENCH.PNG)
-
-- Intel Power Gadget
-
-![image](https://github.com/hackintosh-efi/MSI-B85i-OpenCore/blob/main/ScreenShot/IntelPowerGadget.PNG)
