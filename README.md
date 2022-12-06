@@ -60,16 +60,16 @@
 
 - About This Mac
 
-![image](https://github.com/hackintosh-efi/MSI-B85i-OpenCore/blob/main/ScreenShot/关于本机.png)
+![image](https://github.com/hackintosh-efi/MSI-B85i-OpenCore/tree/main/ScreenShot/关于本机.png)
 
 - Geekbench5 Score E3-1231 V3
 
-![image](https://github.com/hackintosh-efi/MSI-B85i-OpenCore/blob/main/ScreenShot/geekbench.png)
+![image](https://github.com/hackintosh-efi/MSI-B85i-OpenCore/tree/main/ScreenShot/geekbench.png)
 
 - Cinebench R20
 
-![image](https://github.com/hackintosh-efi/DELL-3090MFF-OpenCore/blob/main/ScreenShot/CINEBENCH.png)
+![image](https://github.com/hackintosh-efi/MSI-B85i-OpenCore/tree/main/ScreenShot/CINEBENCH.png)
 
 - Intel Power Gadget
 
-![image](https://github.com/hackintosh-efi/DELL-3090MFF-OpenCore/blob/main/ScreenShot/IntelPowerGadget.png)
+![image](https://github.com/hackintosh-efi/MSI-B85i-OpenCore/tree/main/ScreenShot/IntelPowerGadget.png)
